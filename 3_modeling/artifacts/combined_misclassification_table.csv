@@ -1,0 +1,7 @@
+Sample_ID;True_Label;LR_Predicted;RF_Predicted;EBM_Predicted
+73;malignant;benign;benign;benign
+208;benign;malignant;malignant;malignant
+526;benign;malignant;-;malignant
+81;-;-;malignant;malignant
+86;-;-;benign;benign
+255;-;-;-;benign
